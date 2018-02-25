@@ -4,5 +4,4 @@ Available on ["droidfivex/android-build-environment - Docker Hub"](https://hub.d
 
 Available tags
 ---
-* `latest` ([latest/Dockerfile](latest/Dockerfile))
-* `oreo`, `oreo-*` ([oreo/Dockerfile](oreo/Dockerfile))
+* `latest`, `oreo`, `oreo-*` ([oreo/Dockerfile](oreo/Dockerfile))
