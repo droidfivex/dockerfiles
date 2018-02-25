@@ -13,6 +13,8 @@ RUN \
         -o /usr/local/bin/repo && \
     chmod a+x /usr/local/bin/repo
 
+# if you want to override this configuration, use '-e' option with 'docker run'.
+# see https://docs.docker.com/engine/reference/run/#env-environment-variables
 ENV \
     GIT_AUTHOR_NAME="droidfivex" \
     GIT_AUTHOR_EMAIL="droidfivex@gmail.com" \
